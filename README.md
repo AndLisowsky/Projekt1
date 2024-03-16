@@ -1,2 +1,2 @@
-# Projekt1
- Programowanie obiektowe - projekt 1
+# Projekt (Poniedziałek, 17:05) - Aleksander Serwik
+ Program mnożący dwie liczby całkowite. Wciśnij E by przerwać.
